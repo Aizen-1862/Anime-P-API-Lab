@@ -1,0 +1,14 @@
+
+{
+  "name": "animep-api-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Experimental anime catalogue and authorized video-source API for Anime:P",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
